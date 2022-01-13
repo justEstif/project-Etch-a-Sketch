@@ -13,7 +13,7 @@ html {
 
 .square {
   background-color: white;
-  border: 1px solid black;
+  border: 1px solid rgb(161, 247, 161);
 }
 
 /* maybe add other options to be trigerrd when a different button is clicked */
@@ -21,24 +21,27 @@ html {
   background-color: gray;
   border: 1px solid black;
 }
-.blackcolor{
+.blackcolor {
   background-color: black;
   border: 1px solid white;
 }
-.redcolor{
+.redcolor {
   background-color: red;
   border: 1px solid white;
-}.bluecolor{
+}
+.bluecolor {
   background-color: blue;
   border: 1px solid white;
-}.greencolor{
+}
+.greencolor {
   background-color: green;
   border: 1px solid white;
-}.yellowcolor{
+}
+.yellowcolor {
   background-color: yellow;
   border: 1px solid black;
 }
-.rgbcolor{
+.rgbcolor {
   border: 1px solid white;
 }
 .gridContainer {
@@ -95,13 +98,16 @@ html {
 #red {
   background-color: red;
   box-shadow: 2px 2px 2px 1px rgba(0, 0, 0, 0.2);
-}#blue {
+}
+#blue {
   background-color: blue;
   box-shadow: 2px 2px 2px 1px rgba(0, 0, 0, 0.2);
-}#green {
+}
+#green {
   background-color: green;
   box-shadow: 2px 2px 2px 1px rgba(0, 0, 0, 0.2);
-}#yellow {
+}
+#yellow {
   background-color: yellow;
   box-shadow: 2px 2px 2px 1px rgba(0, 0, 0, 0.2);
 }
