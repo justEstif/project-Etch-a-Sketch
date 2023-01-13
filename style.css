@@ -3,14 +3,6 @@ html {
   font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
-.right {
-  float: right;
-}
-
-.left {
-  display: inline-block;
-}
-
 .square {
   background-color: white;
   border: 1px solid rgb(161, 247, 161);
